@@ -1,5 +1,9 @@
-ler x 
-ler y
-resultado = x + y
-escreva resultado
+1: leia temperatura 
+2: leia unidade
+4: se unidade = celsius:
+3: resultado = temperatura * 1.8 + 32
+4: senão:
+5: resultado = (temperatura - 32) /1.8
+6: escreva resultado
+
 
