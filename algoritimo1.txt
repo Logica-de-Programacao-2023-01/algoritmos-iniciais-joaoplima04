@@ -1,9 +1,9 @@
-1: leia temperatura 
-2: leia unidade
-4: se unidade = celsius:
-3: resultado = temperatura * 1.8 + 32
-4: senão:
-5: resultado = (temperatura - 32) /1.8
-6: escreva resultado
+1: leia lista
+2: leia tamanho_lista
+3: soma = 0
+4: para cada elemento da lista faça:
+5:   soma = soma + elemento
+6: média = soma / tamanho_da_lista
+7: escreva média
 
 
